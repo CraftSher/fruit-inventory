@@ -1,6 +1,0 @@
-Система: Windows
-Название узла: DESKTOP-NJAE6I4
-Релиз: 11
-Версия: 10.0.26100
-Архитектура: AMD64
-Процессор: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
