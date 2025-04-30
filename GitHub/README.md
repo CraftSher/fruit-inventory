@@ -27,7 +27,11 @@ Choose an action:
 3 - Remove product
 4 - Show products with low stock
 0 - Exit
- 
-## Author
 
+## Screenshot of Program Output
+Here is a screenshot showing the output from the terminal when running the program:
+![Terminal Output](assets/output_terminal.png)
+
+## Author
+CraftSher
 Created as part of a portfolio for freelance Python developer
